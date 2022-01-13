@@ -1,0 +1,817 @@
+[2022-01-13 18:06:18.107] [info]  Application Init License Data & File Check] START- readLiecenseFile Action()
+[2022-01-13 18:06:18.111] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:06:18.111] [info]  Application Init License Data & File Check] Result :: N
+[2022-01-13 18:06:21.118] [info]  ChkLicenseProc==============================
+[2022-01-13 18:06:21.120] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:06:24.118] [info]  ChkLicenseProc==============================
+[2022-01-13 18:06:24.119] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:06:27.117] [info]  ChkLicenseProc==============================
+[2022-01-13 18:06:27.118] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:06:30.118] [info]  ChkLicenseProc==============================
+[2022-01-13 18:06:30.119] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:06:33.118] [info]  ChkLicenseProc==============================
+[2022-01-13 18:06:33.119] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:06:36.117] [info]  ChkLicenseProc==============================
+[2022-01-13 18:06:36.118] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:06:39.118] [info]  ChkLicenseProc==============================
+[2022-01-13 18:06:39.119] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:06:42.118] [info]  ChkLicenseProc==============================
+[2022-01-13 18:06:42.119] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:06:45.117] [info]  ChkLicenseProc==============================
+[2022-01-13 18:06:45.118] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:06:48.117] [info]  ChkLicenseProc==============================
+[2022-01-13 18:06:48.117] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:06:51.118] [info]  ChkLicenseProc==============================
+[2022-01-13 18:06:51.119] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:06:54.118] [info]  ChkLicenseProc==============================
+[2022-01-13 18:06:54.119] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:06:57.117] [info]  ChkLicenseProc==============================
+[2022-01-13 18:06:57.118] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:06:58.023] [info]  Application Init License Data & File Check] START- readLiecenseFile Action()
+[2022-01-13 18:06:58.027] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:06:58.028] [info]  Application Init License Data & File Check] Result :: N
+[2022-01-13 18:07:01.877] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:01.878] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:04.034] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:04.035] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:07.034] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:07.035] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:10.034] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:10.035] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:13.948] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:13.950] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:16.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:16.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:19.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:19.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:22.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:22.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:25.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:25.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:28.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:28.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:31.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:31.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:34.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:34.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:35.124] [info]  Application Init License Data & File Check] START- readLiecenseFile Action()
+[2022-01-13 18:07:35.127] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:35.128] [info]  Application Init License Data & File Check] Result :: N
+[2022-01-13 18:07:35.152] [info]  Application Init License Data & File Check] START- readLiecenseFile Action()
+[2022-01-13 18:07:35.153] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:35.153] [info]  Application Init License Data & File Check] Result :: N
+[2022-01-13 18:07:38.136] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:38.137] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:38.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:38.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:41.136] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:41.137] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:41.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:44.135] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:44.137] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:44.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:44.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:47.135] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:47.136] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:47.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:47.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:50.136] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:50.136] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:50.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:50.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:53.136] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:53.137] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:53.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:53.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:56.135] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:56.136] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:56.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:56.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:59.135] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:59.136] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:07:59.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:07:59.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:02.135] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:02.135] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:02.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:02.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:05.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:05.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:05.946] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:05.948] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:08.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:08.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:08.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:08.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:11.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:11.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:11.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:11.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:14.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:14.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:14.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:14.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:17.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:17.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:17.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:17.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:20.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:20.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:20.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:20.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:23.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:23.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:23.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:23.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:26.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:26.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:26.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:26.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:29.401] [info]  Application Init License Data & File Check] START- readLiecenseFile Action()
+[2022-01-13 18:08:29.404] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:29.404] [info]  Application Init License Data & File Check] Result :: N
+[2022-01-13 18:08:29.422] [info]  Application Init License Data & File Check] START- readLiecenseFile Action()
+[2022-01-13 18:08:29.423] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:29.423] [info]  Application Init License Data & File Check] Result :: N
+[2022-01-13 18:08:29.430] [info]  Application Init License Data & File Check] START- readLiecenseFile Action()
+[2022-01-13 18:08:29.430] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:29.431] [info]  Application Init License Data & File Check] Result :: N
+[2022-01-13 18:08:32.413] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:32.414] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:32.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:32.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:32.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:32.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:35.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:35.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:35.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:35.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:38.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:38.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:38.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:38.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:41.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:41.947] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:44.946] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:44.946] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:44.947] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:44.947] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:47.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:47.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:47.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:47.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:50.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:50.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:50.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:50.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:53.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:53.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:53.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:53.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:56.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:56.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:56.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:56.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:59.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:59.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:08:59.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:08:59.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:02.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:02.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:02.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:02.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:05.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:05.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:05.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:05.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:08.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:08.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:08.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:08.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:11.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:11.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:11.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:11.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:14.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:14.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:14.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:14.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:17.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:17.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:17.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:17.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:20.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:20.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:20.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:20.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:23.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:23.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:23.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:23.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:26.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:26.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:26.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:26.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:29.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:29.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:29.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:29.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:32.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:32.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:32.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:32.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:35.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:35.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:35.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:35.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:38.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:38.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:38.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:38.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:40.141] [info]  Application Init License Data & File Check] START- readLiecenseFile Action()
+[2022-01-13 18:09:40.144] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:40.145] [info]  Application Init License Data & File Check] Result :: N
+[2022-01-13 18:09:41.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:41.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:41.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:43.946] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:43.947] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:44.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:44.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:44.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:44.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:46.946] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:46.947] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:47.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:47.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:47.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:47.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:50.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:50.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:50.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:50.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:53.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:53.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:53.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:53.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:56.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:56.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:56.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:56.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:59.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:59.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:09:59.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:09:59.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:02.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:02.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:02.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:02.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:05.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:05.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:05.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:05.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:08.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:08.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:08.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:08.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:11.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:11.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:11.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:11.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:14.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:14.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:14.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:14.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:17.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:17.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:17.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:17.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:20.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:20.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:20.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:20.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:23.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:23.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:23.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:23.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:26.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:26.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:26.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:26.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:29.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:29.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:29.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:29.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:32.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:32.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:32.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:32.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:35.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:35.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:35.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:35.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:37.318] [info]  Application Init License Data & File Check] START- readLiecenseFile Action()
+[2022-01-13 18:10:37.321] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:37.322] [info]  Application Init License Data & File Check] Result :: N
+[2022-01-13 18:10:38.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:38.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:38.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:38.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:40.330] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:40.331] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:41.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:41.947] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:44.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:44.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:44.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:44.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:47.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:47.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:47.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:47.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:50.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:50.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:50.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:50.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:53.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:53.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:53.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:53.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:56.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:56.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:56.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:56.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:59.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:59.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:10:59.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:10:59.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:02.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:02.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:02.946] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:02.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:05.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:05.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:05.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:05.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:08.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:08.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:08.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:08.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:11.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:11.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:11.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:11.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:14.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:14.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:14.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:14.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:17.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:17.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:17.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:17.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:20.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:20.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:20.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:20.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:23.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:23.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:23.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:23.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:26.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:26.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:26.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:26.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:29.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:29.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:29.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:29.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:32.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:32.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:32.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:32.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:35.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:35.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:35.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:35.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:38.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:38.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:38.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:38.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:41.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:41.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:44.946] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:44.946] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:44.947] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:44.947] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:47.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:47.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:47.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:47.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:50.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:50.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:50.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:50.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:53.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:53.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:53.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:53.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:56.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:56.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:56.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:56.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:59.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:59.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:11:59.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:11:59.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:02.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:02.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:02.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:02.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:05.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:05.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:05.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:05.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:08.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:08.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:08.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:08.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:11.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:11.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:11.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:11.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:14.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:14.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:14.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:14.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:17.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:17.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:17.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:17.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:20.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:20.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:20.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:20.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:23.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:23.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:23.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:23.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:26.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:26.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:26.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:26.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:29.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:29.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:29.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:29.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:32.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:32.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:32.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:32.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:35.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:35.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:35.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:35.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:38.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:38.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:38.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:38.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:41.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:41.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:44.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:44.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:44.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:44.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:47.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:47.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:47.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:47.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:50.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:50.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:50.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:50.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:53.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:53.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:53.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:53.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:56.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:56.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:56.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:56.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:59.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:59.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:12:59.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:12:59.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:02.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:02.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:02.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:02.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:05.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:05.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:05.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:05.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:08.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:08.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:08.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:08.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:11.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:11.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:11.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:11.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:14.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:14.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:14.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:14.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:17.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:17.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:17.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:17.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:20.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:20.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:20.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:20.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:23.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:23.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:23.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:23.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:26.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:26.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:26.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:26.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:29.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:29.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:29.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:29.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:32.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:32.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:32.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:32.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:35.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:35.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:35.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:35.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:38.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:38.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:38.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:38.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:41.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:41.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:44.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:44.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:44.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:44.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:47.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:47.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:47.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:47.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:50.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:50.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:50.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:50.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:53.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:53.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:53.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:53.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:56.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:56.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:56.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:56.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:59.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:59.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:13:59.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:13:59.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:02.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:02.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:02.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:02.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:05.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:05.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:05.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:05.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:08.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:08.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:08.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:08.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:11.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:11.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:11.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:11.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:14.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:14.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:14.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:14.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:17.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:17.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:17.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:17.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:20.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:20.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:20.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:20.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:23.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:23.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:23.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:23.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:26.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:26.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:26.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:26.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:29.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:29.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:29.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:29.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:32.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:32.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:32.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:32.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:35.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:35.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:35.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:35.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:38.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:38.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:38.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:38.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:41.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:41.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:44.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:44.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:44.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:44.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:47.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:47.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:47.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:47.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:50.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:50.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:50.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:50.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:53.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:53.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:53.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:53.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:56.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:56.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:56.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:56.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:59.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:59.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:14:59.946] [info]  ChkLicenseProc==============================
+[2022-01-13 18:14:59.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:02.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:02.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:02.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:02.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:05.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:05.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:05.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:05.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:08.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:08.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:08.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:08.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:11.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:11.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:11.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:11.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:14.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:14.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:14.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:14.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:17.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:17.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:17.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:17.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:20.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:20.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:20.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:20.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:23.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:23.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:23.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:23.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:26.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:26.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:26.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:26.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:29.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:29.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:29.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:29.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:32.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:32.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:32.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:32.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:35.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:35.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:35.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:35.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:38.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:38.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:38.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:38.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:41.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:41.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:44.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:44.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:44.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:44.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:47.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:47.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:47.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:47.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:50.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:50.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:50.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:50.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:53.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:53.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:53.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:53.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:56.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:56.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:56.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:56.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:59.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:59.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:15:59.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:15:59.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:02.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:02.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:02.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:02.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:05.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:05.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:05.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:05.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:08.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:08.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:08.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:08.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:11.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:11.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:11.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:11.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:14.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:14.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:14.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:14.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:17.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:17.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:17.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:17.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:20.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:20.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:20.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:20.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:23.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:23.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:23.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:23.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:26.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:26.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:26.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:26.944] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:29.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:29.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:29.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:29.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:32.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:32.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:32.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:32.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:35.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:35.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:35.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:35.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:38.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:38.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:38.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:38.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:41.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:41.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:41.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:44.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:44.945] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:44.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:44.946] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:47.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:47.944] [info]  ChkLicenseProc==============================
+[2022-01-13 18:16:47.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
+[2022-01-13 18:16:47.945] [info]  #### do_readLiecenseFile  #### Error: ENOENT: no such file or directory, open '/home/ryan/work_test/node_qt/vue/vue-electron-template/configSysInfo/license.hmkr'
